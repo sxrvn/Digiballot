@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="url(#gradient)" />
+  
+  <!-- Vote Check Mark -->
+  <path d="M60 105L85 130L140 75" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Chakra Wheel Lines -->
+  <g stroke="white" stroke-width="3" opacity="0.6">
+    <line x1="100" y1="20" x2="100" y2="40" />
+    <line x1="100" y1="160" x2="100" y2="180" />
+    <line x1="20" y1="100" x2="40" y2="100" />
+    <line x1="160" y1="100" x2="180" y2="100" />
+    <line x1="37" y1="37" x2="51" y2="51" />
+    <line x1="149" y1="149" x2="163" y2="163" />
+    <line x1="37" y1="163" x2="51" y2="149" />
+    <line x1="149" y1="51" x2="163" y2="37" />
+  </g>
+  
+  <!-- Gradient Definition -->
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="200" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" style="stop-color:#FF9933"/>
+      <stop offset="50%" style="stop-color:#138808"/>
+      <stop offset="100%" style="stop-color:#000080"/>
+    </linearGradient>
+  </defs>
+</svg>
