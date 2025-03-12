@@ -1,12 +1,14 @@
 # DigiBallot - Secure Online Voting Platform
 
-![DigiBallot Banner]([https://i.ibb.co/32tQg3m/Your-paragraph-text-1.png](https://i.ibb.co/chdJvdF3/Screenshot-2025-03-06-at-10-11-15-PM.jpg))
+![DigiBallot](https://i.ibb.co/MD421YNB/cxruee6ehrvug47usl9o.jpg)
 
 ## Project Overview
 
 DigiBallot is a modern, secure online voting platform designed to digitize the electoral process. The application provides a comprehensive solution for conducting elections with features including user authentication, secure voting, real-time statistics, and administrative oversight.
 
 This project demonstrates the implementation of a full-stack web application with a focus on security, accessibility, and user experience. DigiBallot aims to make the democratic process more accessible while maintaining the integrity and confidentiality of each vote.
+
+**[Live Preview: https://digiballot.netlify.app/](https://digiballot.netlify.app/)**
 
 ## Key Features
 
