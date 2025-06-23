@@ -113,7 +113,6 @@ src/
 - Enhanced analytics for election insights
 - Improved accessibility features
 - Expanded language support
-- Offline voting capability with synchronization
 
 ## Contributing
 
